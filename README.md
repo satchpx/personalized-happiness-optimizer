@@ -24,3 +24,5 @@ The analysis returned by Rekognition on the second image is compared with that o
 
 ![Retrain](images/Screen%20Shot%202021-10-15%20at%2011.24.17%20PM.png)
 Finally, the model is retrained to continually improve the efficacy of the greeting issued and to improve customer sentiment over time.
+
+To see a video walktrhough, refer to [this video](https://twitter.com/AWSonAir/status/1466318657416433666?s=20) tweeted by AWS on Air during the event in December 2021.
